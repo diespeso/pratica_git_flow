@@ -2,7 +2,4 @@
 Practica de git flow
 
 
-Branch development creada por Regalado
-
-
-Branch features, sub-branch de development creada por Regalado
+this is branch features by Rolando Arellano 
